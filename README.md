@@ -1,3 +1,10 @@
+# 前端启动
+`yarn start`
+# 后端启动
+`yarn start-api`
+
+# 代理配置见 package.json
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
